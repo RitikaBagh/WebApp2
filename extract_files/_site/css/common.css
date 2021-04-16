@@ -1,0 +1,106 @@
+.app_logo {
+  margin-top: 20px;
+  margin-bottom: 13px;
+}
+.app_logo {
+  display: inline-block;
+  white-space: nowrap;
+  color: #333;
+  transition: none;
+  text-decoration: none;
+  margin-right: 30px;
+}
+a {
+  color: #2962ff;
+  text-decoration: none;
+}
+
+
+
+.content-app {
+  font-family: "Open Sans",sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-family: "Rubik","Open Sans",sans-serif;
+  font-size: 13px;
+  text-align: center;
+  height: auto !important;
+}
+
+.root_panel {
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+  padding: 50px 80px;
+  display: inline-block!important;
+  
+  transition: 150ms;
+  margin-bottom: 0;
+  min-width: 620px;
+}
+.bootstrap *, .bootstrap ::after, .bootstrap ::before {
+  box-sizing: border-box;
+}
+
+.bootstrap {
+  color: #000;
+}
+Style Attribute {
+  text-align: center;
+  height: auto !important;
+}
+.content-app {
+  font-family: "Open Sans",sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-family: "Rubik","Open Sans",sans-serif;
+  font-size: 13px;
+}
+.bootstrap *, .bootstrap ::after, .bootstrap ::before {
+  box-sizing: border-box;
+}
+.bootstrap *, .bootstrap ::after, .bootstrap ::before {
+  box-sizing: border-box;
+}
+
+#open_remote, .appState_fileIsLoading .open_progress_group {
+  display: block;
+}
+
+.bootstrap .btn-primary {
+  color: #fff;
+  background-color: #2962ff;
+  border-color: #2962ff;
+}
+button {
+
+  
+  text-rendering: auto;
+ 
+  letter-spacing: normal;
+  word-spacing: normal;
+
+  text-indent: 0px;
+  text-shadow: none;
+ 
+ 
+  align-items: flex-start;
+ 
+ 
+  font: 400 13.3333px Arial;
+ 
+}
+
