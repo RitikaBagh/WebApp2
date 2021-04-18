@@ -1,0 +1,29 @@
+{
+  "name": "npm-init-extractfiles",
+  "version": "1.0.0",
+  "description": "ExtractFile package.json",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.14.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RitikaBagh/WebApp2.git"
+  },
+  "keywords": [
+    "extractfiles",
+    "package.json",
+    "npm",
+    "init"
+  ],
+  "author": "Ritika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RitikaBagh/WebApp2/issues"
+  },
+  "homepage": "https://github.com/RitikaBagh/WebApp2#readme"
+}
